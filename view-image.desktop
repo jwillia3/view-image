@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=View Image
+GenericName=ImageViewer
+Categories=Utility;
+Type=Application
+Exec=view-image
+Icon=image-x-generic
+Terminal=false
+NoDisplay=false
